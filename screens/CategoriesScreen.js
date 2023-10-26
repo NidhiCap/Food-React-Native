@@ -30,6 +30,3 @@ function CategoriesScreen({navigation}) {
 
 export default CategoriesScreen;
 
-const styles= StyleSheet.create({
-
-});
